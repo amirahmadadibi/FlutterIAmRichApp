@@ -11,10 +11,7 @@ void main() {
           backgroundColor: Colors.orange[900],
         ),
         body: Center(
-          child: Image(
-            image: NetworkImage(
-                'https://images.unsplash.com/photo-1558981822-0c0c5b070026?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80'),
-          ),
+          child: Image(image: AssetImage('images/car.jpg')),
         ),
       ),
     ),
