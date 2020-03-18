@@ -13,7 +13,7 @@ void main() {
         body: Center(
           child: Image(
             image: NetworkImage(
-                'https://images.unsplash.com/photo-1584195748888-0b1a242ad048?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80'),
+                'https://images.unsplash.com/photo-1558981822-0c0c5b070026?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80'),
           ),
         ),
       ),
