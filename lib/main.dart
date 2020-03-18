@@ -1,6 +1,14 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(MaterialApp(
-        home: Center(
-      child: Text("CodeInReal.net"),
-    )));
+//the main function is staring point of the application
+void main() {
+  runApp(
+    MaterialApp(
+      home: Scaffold(
+        appBar: AppBar(
+          title: Text("i am richdd"),
+        ),
+      ),
+    ),
+  );
+}
